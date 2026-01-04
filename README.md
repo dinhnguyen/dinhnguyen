@@ -2,7 +2,7 @@
 
 ## Về tôi
 - Product Owner với kinh nghiệm trong các lĩnh vực **E-commerce**, **Blockchain** và **EdTech**.  
-- Từng tham gia xây dựng và phát triển các hệ thống **gobiz.vn**, **sapo.vn** à các sản phẩm SaaS khác.  
+- Từng tham gia xây dựng và phát triển các hệ thống **gobiz.vn**, **sapo.vn** và các sản phẩm SaaS khác.  
 - Có nền tảng từ lập trình Frontend, Web Game, Web Design trước khi chuyển sang Product Owner.  
 
 
