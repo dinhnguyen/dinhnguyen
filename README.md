@@ -1,18 +1,11 @@
 # 👋 Xin chào, tôi là Nguyễn Ngọc Định
 
-## Về tôi
-- Product Owner với kinh nghiệm trong các lĩnh vực **E-commerce**, **Blockchain** và **EdTech**.  
-- Từng tham gia xây dựng và phát triển các hệ thống **gobiz.vn**, **sapo.vn** và các sản phẩm SaaS khác.  
-- Có nền tảng từ lập trình Frontend, Web Game, Web Design trước khi chuyển sang Product Owner.  
-
-
 ## Liên hệ
 - **LinkedIn**: [Nguyễn Ngọc Định](#)  
 - **Email**: me@dinhnn.com  
 
 ---
 
-⭐️ Nếu bạn quan tâm đến các dự án về **giáo dục**, **thương mại điện tử**, **blockchain** hay **nền tảng SaaS**, hãy kết nối với tôi!
 <!--
 **dinhnguyen/dinhnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
